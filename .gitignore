@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Ignore JetBrains Idea Goland project settings
+.idea
+
 # Test binary, built with `go test -c`
 *.test
 
